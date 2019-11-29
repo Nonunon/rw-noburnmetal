@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <ModMetaData>
-
-    <name>Metal Doesn't Burn</name>
+    <name>No Burn Metal</name>
     <author>Unon</author>
     <url>https://github.com/neurode/rw-metaldoesntburn</url>
+    <description>NO LONGER FLAMMABLE
+ - Steel
+ - Plasteel
+ - Gold
+ - Silver
+
+STILL NOT FLAMMABLE
+ - Uranium
+ - Jade
+
+Utilizes xpath patching to be a cleaner method. Doesn't dirty the GUI with ShowModDesignators loaded. 
+All my version does is make sure in the case of catastrophic failure (Jade, or Uranium becoming flammable), that these values will persist.
+    
+Similar Mods
+ - Non-Flammable Metals by Magical Liopleurodon
+ - Metal Doesn't Burn by Crisniper
+
+</description>
     <supportedVersions>
         <li>1.0</li>
     </supportedVersions>
-    <description>
-    Steel, Plasteel, Silver, and Gold no longer burn.
-
-    Utilizes xpath patching as a clean method. Doesn't dirty the GUI with ShowModDesignators loaded.
-    </description>
 
 </ModMetaData>
