@@ -10,6 +10,8 @@
     </supportedVersions>
     <description>
     Steel, Plasteel, Silver, and Gold no longer burn.
+
+    Utilizes xpath patching as a clean method. Doesn't dirty the GUI with ShowModDesignators loaded.
     </description>
 
 </ModMetaData>

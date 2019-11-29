@@ -3,6 +3,6 @@
 <Manifest>
     <version>1.0.0</version>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/DrZhivago1/DocTech/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/DrZhivago1/DocTech/releases/latest</downloadUri>
+    <manifestUri>https://raw.githubusercontent.com/neurode/rw-metaldoesntburn/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/neurode/rw-metaldoesntburn/releases/latest</downloadUri>
 </Manifest>
