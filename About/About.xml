@@ -2,6 +2,7 @@
 <ModMetaData>
     <name>No Burn Metal</name>
     <author>Unon</author>
+    <packageId>Unon.NoBurnMetal</packageId>
     <url>https://github.com/neurode/rw-metaldoesntburn</url>
     <description>NO LONGER FLAMMABLE
  - Steel
@@ -24,6 +25,7 @@ Similar Mods
 
     <supportedVersions>
         <li>1.0</li>
+        <li>1.1</li>
     </supportedVersions>
 
 </ModMetaData>
