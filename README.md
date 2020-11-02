@@ -5,6 +5,18 @@ NO LONGER FLAMMABLE
  - Plasteel
  - Gold
  - Silver
+ 
+   [MODDED] - Added by Expanded Materials - Metals
+ - Bronze
+ - Fossils
+ - Iron
+ - Tungsten
+ - Stainless Steel
+ - Concrete
+ - Lead
+ - Copper
+ - Chromium
+
 
 STILL NOT FLAMMABLE
  - Uranium
