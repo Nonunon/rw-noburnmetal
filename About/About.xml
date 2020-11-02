@@ -2,19 +2,34 @@
 <ModMetaData>
     <name>No Burn Metal</name>
     <author>Unon</author>
+    <packageId>Unon.NoBurnMetal</packageId>
     <url>https://github.com/neurode/rw-metaldoesntburn</url>
     <description>NO LONGER FLAMMABLE
  - Steel
  - Plasteel
  - Gold
  - Silver
+ 
+  [MODDED] - Added by Expanded Materials - Metals
+ - Bronze
+ - Fossils
+ - Iron
+ - Tungsten
+ - Stainless Steel
+ - Concrete
+ - Lead
+ - Copper
+ - Chromium
 
 STILL NOT FLAMMABLE
  - Uranium
  - Jade
 
+
 Utilizes xpath patching to be a cleaner method. Doesn't dirty the GUI with ShowModDesignators loaded. 
 All my version does is make sure in the case of catastrophic failure (Jade, or Uranium becoming flammable), that these values will persist.
+
+Expanded Materials - Metals patch done by Dr_Zhivago
     
 Similar Mods
  - Non-Flammable Metals by Magical Liopleurodon
@@ -24,6 +39,8 @@ Similar Mods
 
     <supportedVersions>
         <li>1.0</li>
+        <li>1.1</li>
+		<li>1.2</li>
     </supportedVersions>
 
 </ModMetaData>
