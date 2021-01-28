@@ -16,6 +16,9 @@ NO LONGER FLAMMABLE
  - Lead
  - Copper
  - Chromium
+ 
+   [MODDED] - Added by Alpha Animals
+ - Sky Steel
 
 
 STILL NOT FLAMMABLE
