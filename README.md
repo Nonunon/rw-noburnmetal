@@ -20,6 +20,9 @@ NO LONGER FLAMMABLE
    [MODDED] - Added by Alpha Animals
  - Sky Steel
 
+   [MODDED] - Added by Vanilla Factions Expanded - Classical
+ - Bronze
+
 
 STILL NOT FLAMMABLE
  - Uranium
