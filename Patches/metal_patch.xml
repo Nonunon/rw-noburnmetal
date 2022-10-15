@@ -109,7 +109,57 @@
                </value>
             </nomatch>
         </li>
-        
+
+        <!--===Power Conduit Patch Flammability ===-->
+        <li Class="PatchOperationConditional">
+            <xpath>Defs/ThingDef[defName="PowerConduit"]/statBases/Flammability</xpath>
+            <match Class="PatchOperationReplace">
+               <xpath>Defs/ThingDef[defName="PowerConduit"]/statBases/Flammability</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </match>
+            <nomatch Class="PatchOperationAdd">
+               <xpath>Defs/ThingDef[defName="PowerConduit"]/statBases/Flammability</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </nomatch>
+        </li>
+
+        <!--===Waterproof Power Conduit Patch Flammability ===-->
+        <li Class="PatchOperationConditional">
+            <xpath>Defs/ThingDef[defName="WaterproofConduit"]/statBases/Flammability</xpath>
+            <match Class="PatchOperationReplace">
+               <xpath>Defs/ThingDef[defName="WaterproofConduit"]/statBases/Flammabilityy</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </match>
+            <nomatch Class="PatchOperationAdd">
+               <xpath>Defs/ThingDef[defName="WaterproofConduit"]/statBases/Flammability</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </nomatch>
+        </li>
+      
+          <!--===Power Switch Patch Flammability ===-->
+        <li Class="PatchOperationConditional">
+            <xpath>Defs/ThingDef[defName="PowerSwitch"]/statBases/Flammability</xpath>
+            <match Class="PatchOperationReplace">
+               <xpath>Defs/ThingDef[defName="PowerSwitch"]/statBases/Flammabilityy</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </match>
+            <nomatch Class="PatchOperationAdd">
+               <xpath>Defs/ThingDef[defName="PowerSwitch"]/statBases/Flammability</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </nomatch>
+        </li>
          </operations>
     </Operation>
 </Patch>
