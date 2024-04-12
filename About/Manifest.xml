@@ -3,6 +3,6 @@
 <Manifest>
     <version>1.4.0</version>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri>https://raw.githubusercontent.com/Nonunon/rw-metaldoesntburn/master/About/Manifest.xml</manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/Nonunon/rw-noburnmetal/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/Nonunon/rw-metaldoesntburn/releases/latest</downloadUri>
 </Manifest>

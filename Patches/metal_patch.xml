@@ -110,6 +110,25 @@
             </nomatch>
         </li>
 
+        <!--===BioFerrite Patch Flammability ===-->
+     <!--
+        <li Class="PatchOperationConditional">
+            <xpath>Defs/ThingDef[defName="Bioferrite"]/stuffProps/statFactors/Flammability</xpath>
+            <match Class="PatchOperationReplace">
+               <xpath>Defs/ThingDef[defName="Bioferrite"]/stuffProps/statFactors/Flammability</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </match>
+            <nomatch Class="PatchOperationAdd">
+               <xpath>Defs/ThingDef[defName="Bioferrite"]/stuffProps/statFactors</xpath>
+               <value>
+                    <Flammability>0</Flammability>
+               </value>
+            </nomatch>
+        </li>        
+     -->
+
         <!--===Power Conduit Patch Flammability ===-->
         <li Class="PatchOperationConditional">
             <xpath>Defs/ThingDef[defName="PowerConduit"]/statBases/Flammability</xpath>
