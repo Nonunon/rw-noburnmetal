@@ -3,39 +3,24 @@
 Just making all the metalic lookin' things non-flammable, don't mind me.
     
 NO LONGER FLAMMABLE
- - Steel
- - Plasteel
- - Gold
- - Silver
- - Power Conduits (Waterproof too!)
- - Power Switches
- 
-  [MODDED] - Added by Expanded Materials - Metals
- - Bronze
- - Fossils
- - Iron
- - Tungsten
- - Stainless Steel
- - Concrete
- - Lead
- - Copper
- - Chromium
+- Steel, Plasteel, Gold, Silver, Power Conduits (Waterproof too!), Power Switches
 
-  [MODDED] - Added by Alpha Animals
- - Sky Steel
+[MODDED] - Metals added by Expanded Materials - Metals (1.4 OR 1.5)
+- Different versions have different metals, but have no fear! -- No Burn Metal . . . is here.
 
-  [MODDED] - Added by Vanilla Factions Expanded - Classical
- - Bronze
+[MODDED] - Added by Alpha Animals
+- Sky Steel
 
-  [MODDED] - Added by Medieval Overhaul
- - Iron 
+[MODDED] - Added by Vanilla Factions Expanded - Classical
+- Bronze
 
-STILL NOT FLAMMABLE
- - Uranium
- - Jade
+[MODDED] - Added by Medieval Overhaul
+- Iron
 
-Utilizes xpath patching to be a cleaner method. Doesn't dirty the GUI with ShowModDesignators loaded. 
-All my version does is make sure in the case of catastrophic failure (Jade, or Uranium becoming flammable), that these values will persist.
+[MODDED] - Added by Cupro's Alloys (Continued)
+- Far too many to list.
+
+Utilizes xpath patching to be a cleaner method. Doesn't dirty the GUI with ShowModDesignators or What's That Mod loaded.
 
 Expanded Materials - Metals patch done by Dr_Zhivago
 
